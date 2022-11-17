@@ -5,6 +5,7 @@ Flight computer developed for the solid rocket Osprey, flown at the Spaceport Am
 
 
 ![alt text](https://github.com/rwjmoore/AndromedaFlightComputer/blob/80b1837258c016f6d01d0e591765dae2840442b2/DMB_stack.jpg)
+
 Design Description: 
 
 An STM32-based flight computer interfacing with a 900MHz radio, GNSS Module, 9-axis IMU, barometer, flash storage, audio system, wired ground system communication, analog pressure transducer inputs, debug system. 
