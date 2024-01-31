@@ -9,6 +9,8 @@ The data management board is a four layer PCB with carefully designed power plan
 
 An engine management board (bottom) includes analog sensing circuits to amplify and filter signals recieved by engine pressure sensors, which are essential for engine control via solenoid actuator.
 
+A power management board (bottom) includes a switching mode voltage regulator in series with a linear drop out regulator to facilitate smooth and efficient regulation of the 12V input supply to 5V and 3.3V onboard power requirements. 
+
 # Top View
 ![alt text](https://github.com/rwjmoore/AndromedaFlightComputer/blob/fe1f59382d7c7989c939c095f7d0d2cb6e69b2e5/DMB_Top.jpg)
 
