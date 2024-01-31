@@ -1,4 +1,4 @@
-# AndromedaFlightComputer
+# Andromeda Flight Computer
 Flight computer developed for the solid rocket Osprey and hybrid rocket Ouroboros, flown at the Spaceport America Cup New Mexico in 2022
 
 # Design Description 
