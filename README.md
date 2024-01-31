@@ -14,7 +14,7 @@ A power management board (bottom) includes a switching mode voltage regulator in
 # Top View
 ![alt text](https://github.com/rwjmoore/AndromedaFlightComputer/blob/fe1f59382d7c7989c939c095f7d0d2cb6e69b2e5/DMB_Top.jpg)
 
-# Full Stack
+# Full-Stack
 ![alt text](https://github.com/rwjmoore/AndromedaFlightComputer/blob/80b1837258c016f6d01d0e591765dae2840442b2/DMB_stack.jpg)
 
 
